@@ -2,7 +2,6 @@
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Briefcase, ExternalLink, Github } from "lucide-react"; // Added ExternalLink and Github
 import Image from "next/image";
-import Link from "next/link"; // Added Link for Next.js optimized navigation if internal
 import { projectsData } from "@/data/projects"; // Import data
 import { Button } from "@/components/ui/button"; // Added Button for styling links
 

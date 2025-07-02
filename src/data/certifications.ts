@@ -1,6 +1,5 @@
 
 import type { CertificationAwardItem } from '@/types';
-import { Award } from 'lucide-react'; // Icon is used for default, can be overridden in component
 
 export const certificationsAwardsData: CertificationAwardItem[] = [
   {
